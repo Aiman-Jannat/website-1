@@ -11,3 +11,13 @@
 .second{
     display: none;
 }
+header{
+    background-image: url('../images/f2.jpg');
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-size: cover;
+    /* background-width: 500px; */
+    color: white;
+    height: 300px;
+
+}
